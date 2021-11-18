@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"POT-Creation-Date: 2021-11-18T10:36:29.312Z\n"
+"PO-Revision-Date: 2021-11-18 12:35+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.4.1\n"
+
+#: title
+msgid "Add Todo"
+msgstr "Добавить задачу"
+
+#: create
+msgid "Create a <bold>new</bold> <italic>todo</italic>"
+msgstr "Создать <bold>новую</bold> <italic>задачу</italic>"
+
+#: placeholder
+msgid "What needs to be done?"
+msgstr "Что нужно выполнить?"
+
+#: required
+msgid "This field is required"
+msgstr "Это обязательное поле"
+
+#: completed
+msgid "Mark as completed"
+msgstr "Отметить как сделанное"
+
+#: uncompleted
+msgid "Mark as uncompleted"
+msgstr "Отметить как не сделанное"
+
+#: sub
+msgctxt "title"
+msgid "To add a todo, just fill the form below and click in add todo."
+msgstr "Для добавления задачи заполните форму и кликните добавить задачу."
+
+#: todo_list
+msgctxt "title"
+msgid "Todo List"
+msgstr "Список задач"
+
+#: add
+msgctxt "todo"
+msgid "<icon /> Add todo"
+msgstr "<icon /> Добавить задачу"
+
+#: list_items
+msgctxt "one"
+msgid "{{count}} item"
+msgstr "{{count}} задача"
+
+#: list_items
+msgctxt "other"
+msgid "{{count}} items"
+msgstr "{{count}} задач"
+
+#: list_items
+msgctxt "many"
+msgid "{{count}} items"
+msgstr "{{count}} задач"
+
+#: empty
+msgctxt "list"
+msgid "There's nothing to do :("
+msgstr "Задач больше нет :("
+
+#: delete
+msgctxt "text"
+msgid "delete"
+msgstr "удалить"
+
+#: delete
+msgctxt "message"
+msgid "Are you sure you want to {{deleteText, uppercase}}?"
+msgstr "Вы уверены, что хотите {{deleteText, uppercase}}?"
+
+#: created
+msgctxt "at"
+msgid "Created at {{date, DD/MM/YYYY}}"
+msgstr "Создано {{date, DD/MM/YYYY}}"

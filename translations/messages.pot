@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18next-conv\n"
+"mime-version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"POT-Creation-Date: 2021-11-18T10:36:29.312Z\n"
+"PO-Revision-Date: 2021-11-18T10:36:29.312Z\n"
+
+#: title
+msgid "Add Todo"
+msgstr ""
+
+#: create
+msgid "Create a <bold>new</bold> <italic>todo</italic>"
+msgstr ""
+
+#: placeholder
+msgid "What needs to be done?"
+msgstr ""
+
+#: required
+msgid "This field is required"
+msgstr ""
+
+#: completed
+msgid "Mark as completed"
+msgstr ""
+
+#: uncompleted
+msgid "Mark as uncompleted"
+msgstr ""
+
+#: sub
+msgctxt "title"
+msgid "To add a todo, just fill the form below and click in add todo."
+msgstr ""
+
+#: todo_list
+msgctxt "title"
+msgid "Todo List"
+msgstr ""
+
+#: add
+msgctxt "todo"
+msgid "<icon /> Add todo"
+msgstr ""
+
+#: list_items
+msgctxt "one"
+msgid "{{count}} item"
+msgstr ""
+
+#: list_items
+msgctxt "other"
+msgid "{{count}} items"
+msgstr ""
+
+#: list_items
+msgctxt "many"
+msgid "{{count}} items"
+msgstr ""
+
+#: empty
+msgctxt "list"
+msgid "There's nothing to do :("
+msgstr ""
+
+#: delete
+msgctxt "text"
+msgid "delete"
+msgstr ""
+
+#: delete
+msgctxt "message"
+msgid "Are you sure you want to {{deleteText, uppercase}}?"
+msgstr ""
+
+#: created
+msgctxt "at"
+msgid "Created at {{date, DD/MM/YYYY}}"
+msgstr ""

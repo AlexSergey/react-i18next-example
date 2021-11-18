@@ -1,0 +1,18 @@
+{
+  "title": "Add Todo",
+  "sub_title": "To add a todo, just fill the form below and click in add todo.",
+  "create": "Create a <bold>new</bold> <italic>todo</italic>",
+  "add_todo": "<icon /> Add todo",
+  "list_items_one": "{{count}} item",
+  "list_items_other": "{{count}} items",
+  "list_items_many": "{{count}} items",
+  "placeholder": "What needs to be done?",
+  "required": "This field is required",
+  "todo_list_title": "Todo List",
+  "empty_list": "There's nothing to do :(",
+  "delete_text": "delete",
+  "delete_message": "Are you sure you want to {{deleteText, uppercase}}?",
+  "created_at": "Created at {{date, DD/MM/YYYY}}",
+  "completed": "Mark as completed",
+  "uncompleted": "Mark as uncompleted"
+}
