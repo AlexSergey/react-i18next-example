@@ -17,7 +17,7 @@ i18n
   .use(Backend)
   .init({
     fallbackLng: 'en',
-    whitelist: languages,
+    supportedLngs: languages,
     preload: ['ru'],
     resources: {
       en: {

@@ -32,7 +32,7 @@
     "moment": "2.29.1"
   },
   "devDependencies": {
-    "@rockpack/compiler": "2.0.0-rc.17",
+    "@rockpack/compiler": "3.0.3",
     "i18next-conv": "10.2.0"
   }
 }
